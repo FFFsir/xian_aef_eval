@@ -1,0 +1,6 @@
+[submodule "download_scripts"]
+	path = download_scripts
+	url = https://github.com/FFFsir/download_scripts.git
+[submodule "evaluation_scripts"]
+	path = evaluation_scripts
+	url = https://github.com/FFFsir/evaluation_scripts.git
