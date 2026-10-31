@@ -4,3 +4,6 @@
 [submodule "evaluation_scripts"]
 	path = evaluation_scripts
 	url = https://github.com/FFFsir/evaluation_scripts.git
+[submodule "change_detection_scripts"]
+	path = change_detection_scripts
+	url = https://github.com/FFFsir/change_detection_scripts.git
